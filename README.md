@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Ommkar
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Red%20Teamer;AI/ML%20Enthusiast;Always%20learning%20new%20things&font=Consolas&center=true&width=480&height=45&color=00ff00&vCenter=true&pause=1000&size=23" /></a>
 </p>
