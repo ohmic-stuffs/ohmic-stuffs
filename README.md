@@ -1,3 +1,8 @@
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Game%20Devlopment;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Making LLM (AI & ML)<br>👯 I’m looking to collaborate on ML Projects<br>🤝 I’m looking for help with Learning Machine-Learning<br>🌱 I’m currently at my Bachelors<br>💡 Ask me about anything techy
 
